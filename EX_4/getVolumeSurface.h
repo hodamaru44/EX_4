@@ -1,2 +1,2 @@
 #include <iostream>
-double getVolumeSurface(double width, double height, double depth,double* surface, double* volume);
+void getVolumeSurface(double width, double height, double depth,double* surface, double* volume);
